@@ -1,0 +1,9 @@
+{
+  "name": "Heavy Sleeper Alarm",
+  "description": "A badass, high-octane alarm system for heavy sleepers that can only be stopped by active physical exertion (shaking the device vigorously), with a snooze option that backfires into overkill alarm levels.",
+  "requestFramePermissions": [
+    "android.permission.VIBRATE",
+    "android.permission.SCHEDULE_EXACT_ALARM"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
